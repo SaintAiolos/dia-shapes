@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
-  xmlns:svg="http://www.w3.org/2000/svg">
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
   <name>3d cube</name>
   <icon>cube.png</icon>
   <connections/>
